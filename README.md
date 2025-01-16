@@ -3,9 +3,10 @@
 
 - 🌱 I’m currently learning Django framework, a little bit of different programming languages
 
-- 📫 How to reach me whythefuneedit@gmail.com
+- 📫 How to reach me:
+-  whythefuneedit@gmail.com
 
-- ⚡️ Fun fact Wanna play any games :D ?
+- ⚡️ Wanna play any games :D ?
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
