@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Django framework, a little bit of different programming languages
 
 - 📫 How to reach me:
--  whythefuneedit@gmail.com
+      whythefuneedit@gmail.com
 
 - ⚡️ Wanna play any games :D ?
 
