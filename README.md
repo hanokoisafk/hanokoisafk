@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hanoko</h1>
 <h3 align="center">Student from Belarus</h3>
 
-- 🌱 I’m currently learning Django framework, a little bit of different programming languages
+- 🌱 I’m currently learning Django framework, also a bit of different programming languages
 
 - 📫 How to reach me:
       whythefuneedit@gmail.com
-
-- ⚡️ Wanna play any games :D ?
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
